@@ -1,0 +1,13 @@
+This is a simple binary decision making program. You start off on the main menu and click space to continue. Currently we only have one path of decisions pathed out
+Space bar can used at any time to progress to the next "level." This code as originally based around my Intro to Software Engineering game I made so there is still some code
+from that that needs to be cleaned up.
+
+How to use:
+        The idea of our app is to have a saved set amount of lists that users premake so they can easily select them anytime they open the app.
+        Currently there is no input method, so the only working list is favorites.
+        Once you start making decisions you press 1 or 2 depending on which option you want to win (currently a set path, so no decision yet)
+
+Future Plans: 
+        Incorporate the logos in as objects so you can click on them to choose the winner
+        Any inputs can be flagged as already having a logo, so if you type in mcdonalds we'll shove the logo into the list
+        If an input like "Tony's Pizza" gets put in and there is no logo it will just use the text
