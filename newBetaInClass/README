@@ -3,6 +3,8 @@ Space bar can used at any time to progress to the next "level." This code as ori
 from that that needs to be cleaned up.
 
 How to use:
+        This is an eclipse project
+        Spacebar is used to continue to the next level
         The idea of our app is to have a saved set amount of lists that users premake so they can easily select them anytime they open the app.
         Currently there is no input method, so the only working list is favorites.
         Once you start making decisions you press 1 or 2 depending on which option you want to win (currently a set path, so no decision yet)
